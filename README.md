@@ -1,8 +1,13 @@
 # Supermarket-Sales-Analytics-and-Forecasting-Project
-Conducted EDA and developed metrics to evaluate business performance, customer insights, and promotion effectiveness. Built a SARIMA model for sales forecasting and automated dashboards using Python.
-Here's a sample `README` file template for your project on supermarket data analysis:
-
----
+## Table of Content
+  - [Project Overview](#Overview)
+  - [Data Scources](#Data-Used)
+  - [Tools](#Tools-and-Libraries)
+  - [Key Metrics and Techniques](#Key-Metrics-and-Techniques)
+  - [Steps in the Project](#Steps-in-the-Project)
+  - [Key Findings](#Key-Findings)
+  - [Recommandations](#Recommandations)
+  - [Limitations](#Limitations)
 
 # Supermarket Business Analysis Project
 
